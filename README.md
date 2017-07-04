@@ -3,7 +3,7 @@
 - Spring Boot
 - Spring Cloud
 - Spring Cloud Config
-- Netflix Eureka Discovery
+- Netflix Eureka
 - Netflix Hystrix
 - Netflix Zuul
 - Rest Repositories
@@ -11,4 +11,6 @@
 - H2
 - Actuator
 - Lombok
+- Java 8
+- Kotlin 1.1
 
